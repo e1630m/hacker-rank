@@ -1,4 +1,4 @@
-# List of Solutions
+# HackerRank Solutions
 ## [Contests](https://www.hackerrank.com/contests)
 ### [ProjectEuler+](https://www.hackerrank.com/contests/projecteuler/challenges)
 | problems | solutions |
